@@ -1,0 +1,3 @@
+#!/bin/sh
+git remote add origin https://github.com/ankuralgo/go-lerning.git
+git push -u origin main
