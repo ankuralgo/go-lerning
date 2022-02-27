@@ -1,0 +1,2 @@
+build --define=buildtype=obj
+build --repo_env=GOBUILD_BUILDTYPE=obj
