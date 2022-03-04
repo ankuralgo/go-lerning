@@ -8,6 +8,6 @@ func <functionName>(parameters, type) <return type>{
 
 
 
-Run the code: go run convert.go 
+Run the code: go run methods.go 
 
 

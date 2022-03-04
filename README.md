@@ -5,7 +5,6 @@ https://www.pluralsight.com/courses/go-fundamentals
 
 Learnings:
 1. Go away from ;
-2. Execute code fast
 
 
 
